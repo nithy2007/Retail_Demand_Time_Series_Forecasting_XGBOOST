@@ -1,6 +1,6 @@
 # Retail_Demand_Time_Series_Forecasting_XGBOOST
 
-# Store Sales - Time Series Forecasting (Top 200 Ranking - Kaggle)
+# Store Sales - Time Series Forecasting 
 
 ## Project Overview
 This project focuses on predicting daily sales for thousands of product families across various stores in the "Store Sales - Time Series Forecasting" Kaggle competition. The final model achieved a **Validation RMSLE of 0.426** and a **Public Leaderboard Score of 0.447**, placing it in the **Top 200 (Top 5%)** of global participants.
