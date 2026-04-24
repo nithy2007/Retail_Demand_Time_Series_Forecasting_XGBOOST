@@ -43,6 +43,7 @@ To ensure the model is practically applicable, all lag and rolling features were
 * `data/`: (Not included due to Kaggle terms) Raw and processed data.
 * `src/`: Feature engineering scripts and model training logic.
 * `submission.csv`: Final predictions for the competition.
+* Kaggle link: https://www.kaggle.com/code/nithya2007/sales-forecast-xgboost
 
 ## Future Improvements
 * Implement **Target Encoding** by using the average sales of product families and store numbers combination as one feature 
